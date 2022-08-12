@@ -1,4 +1,4 @@
-# Sample Select Policy
+# Sample Choice Policy
 Which images to label for few-shot medical landmark detection? 
 
 
